@@ -1,0 +1,6 @@
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
