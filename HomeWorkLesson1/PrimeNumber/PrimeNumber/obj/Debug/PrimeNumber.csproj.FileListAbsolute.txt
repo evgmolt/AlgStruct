@@ -1,0 +1,7 @@
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson1\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
