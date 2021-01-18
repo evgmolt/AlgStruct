@@ -1,0 +1,7 @@
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\bin\Debug\BinSearch.exe.config
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\bin\Debug\BinSearch.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\bin\Debug\BinSearch.pdb
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\obj\Debug\BinSearch.csprojAssemblyReference.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\obj\Debug\BinSearch.csproj.CoreCompileInputs.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\obj\Debug\BinSearch.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\BinSearch\obj\Debug\BinSearch.pdb

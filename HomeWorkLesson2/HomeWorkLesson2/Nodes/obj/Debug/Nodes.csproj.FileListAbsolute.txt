@@ -1,0 +1,7 @@
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\bin\Debug\Nodes.exe.config
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\bin\Debug\Nodes.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\bin\Debug\Nodes.pdb
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\obj\Debug\Nodes.csproj.CoreCompileInputs.cache
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\obj\Debug\Nodes.exe
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\obj\Debug\Nodes.pdb
+F:\GeekBrains\AlgStruct\HomeWorkLesson2\HomeWorkLesson2\Nodes\obj\Debug\Nodes.csprojAssemblyReference.cache
