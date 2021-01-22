@@ -1,0 +1,7 @@
+Available Benchmark:
+  #0 BenchmarkClass
+
+
+You should select the target benchmark(s). Please, print a number of a benchmark (e.g. `0`) or a contained benchmark caption (e.g. `BenchmarkClass`).
+If you want to select few, please separate them with space ` ` (e.g. `1 2 3`).
+You can also provide the class name in console arguments by using --filter. (e.g. `--filter *BenchmarkClass*`).
