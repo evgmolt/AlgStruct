@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinTree", "BinTree\BinTree.csproj", "{997E5D1B-B87A-4DAE-9A18-BDAF3984F4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetTest2", "HashSetTest2\HashSetTest2.csproj", "{5D51708A-CFC4-4266-9AB5-3E71B3FEE2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997E5D1B-B87A-4DAE-9A18-BDAF3984F4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997E5D1B-B87A-4DAE-9A18-BDAF3984F4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997E5D1B-B87A-4DAE-9A18-BDAF3984F4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997E5D1B-B87A-4DAE-9A18-BDAF3984F4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D51708A-CFC4-4266-9AB5-3E71B3FEE2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D51708A-CFC4-4266-9AB5-3E71B3FEE2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D51708A-CFC4-4266-9AB5-3E71B3FEE2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D51708A-CFC4-4266-9AB5-3E71B3FEE2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F0B576-BEFA-4E1A-9AA4-9F21541B1315}
+	EndGlobalSection
+EndGlobal
