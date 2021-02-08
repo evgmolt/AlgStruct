@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routes", "Routes\Routes.csproj", "{496EA94A-EE94-45EF-B010-0A0D23FC090D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variations", "Variations\Variations.csproj", "{3FB03561-9F3A-4F47-B81C-0AA80D2CCC5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496EA94A-EE94-45EF-B010-0A0D23FC090D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496EA94A-EE94-45EF-B010-0A0D23FC090D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496EA94A-EE94-45EF-B010-0A0D23FC090D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496EA94A-EE94-45EF-B010-0A0D23FC090D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB03561-9F3A-4F47-B81C-0AA80D2CCC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB03561-9F3A-4F47-B81C-0AA80D2CCC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB03561-9F3A-4F47-B81C-0AA80D2CCC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB03561-9F3A-4F47-B81C-0AA80D2CCC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6C71EF2-BAB8-49A0-BA75-608B00C07BF8}
+	EndGlobalSection
+EndGlobal
